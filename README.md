@@ -1,6 +1,8 @@
 # Sphere-Multilangual-Admin
 Multilanguage Admin Console
 
+More in http://eranova.cz/sphere/multilanguage-admin and http://eranova.cz/sphere/multilanguage-admin-updates-and-extensions
+
 Changelog:
 
 2.10.2020 - first edition
